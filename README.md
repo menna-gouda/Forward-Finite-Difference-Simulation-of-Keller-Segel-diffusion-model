@@ -29,4 +29,4 @@ This project facilitates the simulation of stem cell migration using the Keller-
 4. Analysis of the effect of hydrogen peroxide preconditioning on stem cell behavior
 
 # Results
-The project includes a Mathematica notebook containing the simulation code and visualization of results. Detailed analysis and interpretation of the simulation outcomes, along with insights gained from the study, are provided.
+The project includes a Mathematica notebook containing the simulation code and visualization of results. Detailed analysis and interpretation of the simulation outcomes are provided.
