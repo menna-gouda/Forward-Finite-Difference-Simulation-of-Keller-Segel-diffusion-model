@@ -1,4 +1,4 @@
-# Simulation-of-Keller-Segel-diffusion-model-using-Forward-Finite-Difference
+# Simulation-of-Keller-Segel-Diffusion-Model-using-Forward-Finite-Difference
 
 # About
 This project implements a Keller-Segel diffusion model to simulate the effect of hydrogen peroxide preconditioning on stem cell migration in a scratch assay. The model is solved using the Forward Finite Difference method in Mathematica. The laboratory work was supported by the Center for Stem Cell Excellence at Zewail City.
